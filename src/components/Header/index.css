@@ -1,0 +1,12 @@
+.nav-container {
+  background-color: #f1f5f9;
+  height: 15vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 80px;
+}
+
+.website-logo {
+  width: 150px;
+}
